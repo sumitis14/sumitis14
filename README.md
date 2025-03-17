@@ -1,5 +1,5 @@
 ### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="27px"> :sparkles:
-### Hi there! :wave: <br>I am Sumit Saurabh, Blockchain Developer and enthusiast. 
+### Hi there! :wave: <br>I am Sumit Saurabh, Software Developer and Gen AI. 
 
 <p>
   <samp>
@@ -17,9 +17,8 @@
 
 <details>
   <summary><b>:telescope: 2025 goal</b></summary>
-  AoC 2025 with Rust
+  AoC 2025 with Rust<br>
   Explore GenAI with Ollama and Azure AI studio
-  
   <br>
 </details>
 
