@@ -4,9 +4,9 @@
 <p>
   <samp>
 
-- 🔭 I’m currently working on : Blockchain, Privacy, Ethereum.
-- 🌱 I’m currently learning: Blockchain, Ethereum, Machine Learning, Data Analysis
-- 🤔 I’m looking for help with: Decentralized identities, hashing algorithms, ethereum enterprise development, smart contracts
+- 🔭 I’m currently working on: Distributed Systems, Azure, Security and Gen AI
+- 🌱 I’m currently learning: Gen AI, Rust, Machine Learning, Data Analysis
+- 🤔 I’m looking for help with: 
 - 💬 Ask me about: Data structures and algorithms
 - 📫 How to reach me: <a href="https://twitter.com/learn_sumit">Twitter</a>, <a href="https://www.linkedin.com/in/learnsumit">LinkedIn</a>
 
@@ -16,8 +16,11 @@
 </p>
 
 <details>
-  <summary><b>:telescope: 2020 goal</b></summary>
-  I want to make a small prediction model based on my learnings coming form ML this year.<br>
+  <summary><b>:telescope: 2025 goal</b></summary>
+  AoC 2025 with Rust
+  Explore GenAI with Ollama and Azure AI studio
+  
+  <br>
 </details>
 
 <!--
